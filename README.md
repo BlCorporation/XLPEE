@@ -1,5 +1,7 @@
  # PE Disassembler (explorer&editor)
 
+ ![Логотип](screenshot1.png)
+
  pip install **capstone pefile**
 
  ## Python 3+
